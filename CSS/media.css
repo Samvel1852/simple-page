@@ -5,6 +5,15 @@
   }
 }
 
+@media screen and (max-height: 500px) {
+  .navbar-block2 {
+    display: none;
+  }
+  .nav-footer {
+    padding-top: 0;
+  }
+}
+
 @media screen and (max-width: 660px) {
   .top-left-part-line {
     display: none;
